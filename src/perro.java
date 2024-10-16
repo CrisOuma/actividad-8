@@ -75,11 +75,6 @@ public class perro {
 
     public void comer(String Tfood, double grms){
         boolean yummy = false;
-        if (Tfood === yummy) {
-            System.out.println("ñom ñom ñom");
-        }else{
-            System.out.println("blegh");
-        }
     }
 
     public String ladrar(){
